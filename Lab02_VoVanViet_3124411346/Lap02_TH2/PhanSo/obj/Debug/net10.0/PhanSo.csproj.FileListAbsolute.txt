@@ -1,0 +1,14 @@
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/bin/Debug/net10.0/PhanSo
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/bin/Debug/net10.0/PhanSo.deps.json
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/bin/Debug/net10.0/PhanSo.runtimeconfig.json
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/bin/Debug/net10.0/PhanSo.dll
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/bin/Debug/net10.0/PhanSo.pdb
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/PhanSo.AssemblyInfoInputs.cache
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/PhanSo.AssemblyInfo.cs
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/PhanSo.csproj.CoreCompileInputs.cache
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/PhanSo.dll
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/refint/PhanSo.dll
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/PhanSo.pdb
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/PhanSo.genruntimeconfig.cache
+/home/viet-van/Csharp/Lap02_TH2/PhanSo/obj/Debug/net10.0/ref/PhanSo.dll
